@@ -24,8 +24,8 @@ export default function BasicModal() {
   const handleClose = () => setOpen(false);
 
   return (
-      <div>
-    <Button onClick={handleOpen}>Download resume </Button>
+      <div style={{marginTop:'1rem'}}>
+    <Button onClick={handleOpen} style={{color:"white",backgroundColor:"tan"}} >Download resume </Button>
       <Modal
         open={open}
         onClose={handleClose}

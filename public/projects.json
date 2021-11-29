@@ -1,0 +1,42 @@
+[
+    {
+      "_id": "616c57fbbbefe90e92a56012",
+      "picture": "https://i.ibb.co/kKbbwDZ/project-1.png",
+      "name": "Cars dekho web app",
+      "phone": "+1 (917) 523-2982",
+      "address": "506 Exeter Street, Imperial, California, 8893",
+      "about": "buy cars from our website.more then 16 cars loaded from mongoDb api.log in user can add any cars to their purchase list and can delete order from his purchase .logged in admin can add new cars and that place data is stored in mongodb.admin can approve anu order from manage All orders section.admin can delete any product from manage products"
+    },
+    {
+        "_id": "37856839qbcyr78r79qnor784r4",
+        "picture": "https://i.ibb.co/fqDFgk6/project-2.png",
+        "name": "Healthcare ",
+        "email": "ratliffoneill@greeker.com",
+        "phone": "+1 (917) 523-2982",
+        "address": "506 Exeter Street, Imperial, California, 8893",
+        "about": "users can get any kinds of health related supports.service information can be accessed once logged in.get some of our services in home page.trending medical news are shown in homepage .get our info abut our current research cases from CASE STUDIES"
+      },
+      {
+        "_id": "74583efyn3872n9x7823783yr",
+        
+        "picture": "https://i.ibb.co/KXfkTc3/project-3.png",
+      
+        "name": "tavel Guid",
+        "about": "A travel guid related user.shows many places.log in user can add any place to their white List and can delete order from his white list .loged in users can add new place to visit and that place data is stored in momgo db.datas used for the website is from mongoDb data base ."
+      },
+      {
+        "_id": "09849358349yf39487ch892h2dx23e",
+       
+        "picture": "https://i.ibb.co/nn5Dw0d/project-4.png",
+      
+        "name": "teachdemy",
+        "about": "Teachdemy is a education related website. multiple courses are registered. user may select one or more courses."
+      },
+      {
+        "_id": "938457348573847r348ru8yrf483",
+      
+        "picture": "https://i.ibb.co/1Kjy7Gh/project-5.png",
+        "name": "Game Shop",
+        "about": "Game shop is shopping related website. peple buy games here. price and quantity are counted when user add any product to the cart."
+      }
+]
