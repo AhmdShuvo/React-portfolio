@@ -17,7 +17,7 @@ const Details = () => {
     },[id])
     const {about,name,picture,_id,Visit}=project
     return (
-        <Container className="border border-info rounded-2 my-5 p-3"  sx={{
+        <div style={{backgroundColor:'#D6EAF8'}} className="border rounded-2 mb-5 p-3"  sx={{
             boxShadow: 0,
             bgcolor: 'black',
             m: 1,
@@ -33,7 +33,7 @@ const Details = () => {
          <p className="animate__animated animate__fadeInUp animate__delay-1s">{about}</p>
   </div>
             </center>
-        </Container>
+        </div>
     );
 };
 
