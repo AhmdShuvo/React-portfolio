@@ -12,12 +12,12 @@ const Home = () => {
           <Container className="animate__animated animate__fadeInRight">
              <Name></Name>
           </Container>
-        <Container className="animate__animated animate__fadeInLeft" style={{border:"2px solid #C0392B",padding:'20px',marginTop:'10px'}}>
+       <center> <Container  data-aos="zoom-out-right" className="animate__animated animate__fadeInLeft" style={{border:"2px solid #C0392B",padding:'20px',marginTop:'10px'}}>
             <div style={{color:'white'}}>
-                <h5>Download my resume </h5>
+                <h5 style={{fontFamily:'cursive',color:"black"}} >Download my resume </h5>
             <BasicModal></BasicModal>
                 </div>        
-        </Container>
+        </Container></center>
 
         <Contact></Contact>
         </>
