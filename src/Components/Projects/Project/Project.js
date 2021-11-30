@@ -18,8 +18,11 @@ const Project = ({project}) => {
     const {about,name,picture,_id}=project
     return (
         <>
-             <Grid item xs={2} sm={4} md={4} >
-            <Card sx={{ maxWidth: 345 }} className='animate__animated animate__backInUp'>
+             <Grid item xs={2} sm={4} md={4}>
+            <Card sx={{ maxWidth: 345 }} className='animate__animated animate__backInUp'  sx={{
+            boxShadow: 10,
+            bgcolor: 'white',
+          }}>
       <CardMedia
         component="img"
         height="140"
